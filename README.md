@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
-<h3 align="center">Backend-Focused Software Engineer | Django • Node.js • PostgreSQL</h3>
+<h3 align="center">Backend-Focused Software Engineer | Django • MERN • PostgreSQL</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/md-habib-ur-rahman">
@@ -8,14 +8,13 @@
   <a href="mailto:hrsiam420@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Hr-D-LuffY&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 CSE student at **BRAC University** (Expected Graduation: 2026)
+- 🎓 CSE student at **BRAC University** 
 - 🔬 Thesis: **Privacy-Preserving Retrieval-Augmented Generation (RAG)**
 - 💼 Building scalable **RESTful APIs** with Django & Node.js
 - 🛢️ Strong in **PostgreSQL**, **MongoDB**, and database design
@@ -30,12 +29,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frameworks:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -53,8 +57,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [Disaster Platform](https://github.com/Hr-D-LuffY/Disaster-Platform) | Relief coordination platform that bridges disaster-affected victims with aid organizations and volunteers in real time | MERN |
 | [Auction Alley](https://github.com/Hr-D-LuffY/Auction-Alley) | Full-stack online auction platform with real-time bidding and payment gateway | Django, HTML |
-| [Disaster Platform](https://github.com/Hr-D-LuffY/Disaster-Platform) | Relief coordination platform that bridges disaster-affected victims with aid organizations and volunteers in real time | Node.js, Express |
 | [Cineplex Project](https://github.com/Hr-D-LuffY/Cineplex-Project) | Cinema booking website with full database backend | Flask, MySQL |
 | [Focus Track](https://github.com/Hr-D-LuffY/Focus-Track) | Productivity tracker app | C++ |
 | [Health Tracker ASM](https://github.com/Hr-D-LuffY/Health_Tracker_Asm) | Low-level health tracking tool | Assembly |
