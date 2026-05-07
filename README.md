@@ -66,16 +66,12 @@
 | [Disaster Platform](https://github.com/Hr-D-LuffY/Disaster-Platform) | Relief coordination platform that bridges disaster-affected victims with aid organizations and volunteers in real time | MERN |
 | [Auction Alley](https://github.com/Hr-D-LuffY/Auction-Alley) | Full-stack online auction platform with real-time bidding and payment gateway | Django, HTML |
 | [Cineplex Project](https://github.com/Hr-D-LuffY/Cineplex-Project) | Cinema booking website with full database backend | Flask, MySQL |
+| [Aprande Espanol](https://github.com/Hr-D-LuffY/Spanish-Note-Web) | Spanish Learning Platform | React & Supabase |
 | [Focus Track](https://github.com/Hr-D-LuffY/Focus-Track) | Productivity tracker app | C++ |
 | [Health Tracker ASM](https://github.com/Hr-D-LuffY/Health_Tracker_Asm) | Low-level health tracking tool | Assembly |
 | [Wreck Race](https://github.com/Hr-D-LuffY/Wreck-Race) | Computer graphics project | Python |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hr-D-LuffY&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 
