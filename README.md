@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
-<h3 align="center">Backend-Focused Software Engineer | Django • MERN • PostgreSQL</h3>
+<h3 align="center">Backend-Focused Software Engineer | MERN • NEXTJS • Django • PostgreSQL</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/md-habib-ur-rahman">
@@ -15,11 +15,11 @@
 ### 🧑‍💻 About Me
 
 - 🎓 CSE student at **BRAC University** 
-- 🔬 Thesis: **Privacy-Preserving Retrieval-Augmented Generation (RAG)**
+- 🔬 Thesis: **A Security Evaluation Framework for Distributed Retrieval-Augmented Generation Systems**
 - 💼 Building scalable **RESTful APIs** with Django & Node.js
 - 🛢️ Strong in **PostgreSQL**, **MongoDB**, and database design
 - 🌍 Based in **Dhaka, Bangladesh**
-- 📫 Reach me at **hrsiam420@email.com**
+- 📫 Reach me at **hrhabib1711@email.com**
 
 ---
 
@@ -36,6 +36,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NEXTjs](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
