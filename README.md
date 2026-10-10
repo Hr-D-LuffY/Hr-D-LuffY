@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
-<h3 align="center">Backend-Focused Software Engineer | MERN • NEXTJS • Django • PostgreSQL</h3>
+<h3 align="center">Full Stack Software Engineer | MERN • NEXTJS • Django • PostgreSQL</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/md-habib-ur-rahman">
@@ -16,7 +16,7 @@
 
 - 🎓 CSE student at **BRAC University** 
 - 🔬 Thesis: **A Security Evaluation Framework for Distributed Retrieval-Augmented Generation Systems**
-- 💼 Building scalable **RESTful APIs** with Django & Node.js
+- 💼 Building scalable **RESTful APIs** with Django & Node.js, and modern frontends with **Next.js & TypeScript**
 - 🛢️ Strong in **PostgreSQL**, **MongoDB**, and database design
 - 🌍 Based in **Dhaka, Bangladesh**
 - 📫 Reach me at **hrhabib1711@email.com**
@@ -34,29 +34,38 @@
 
 **Frameworks & Libraries:**  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NEXTjs](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**State, Data & Validation:**  
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 **Web Technologies:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Databases:**  
+**Databases & ORM:**  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+**Deployment:**  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
 
 ---
 
@@ -64,6 +73,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [CareNest](https://github.com/Hr-D-LuffY/CareNest-Client) ([Live](https://care-nest-hr.vercel.app)) | Childcare booking platform connecting parents with verified sitters, with a fair, priority-based waitlist when rooms are full, bKash wallet top-ups and role-based dashboards for guardians, staff and admins | Next.js, TypeScript, Tailwind CSS, TanStack Query, shadcn/ui |
+| [FixItNow](https://github.com/Hr-D-LuffY/FixItNow_Frontend) ([Live](https://fixitnow-hr.vercel.app)) | Home-services marketplace where customers book and pay technicians via Stripe Checkout, technicians manage jobs, and admins oversee the platform | Next.js, TypeScript, Tailwind CSS, Zustand, Zod, Stripe |
 | [Disaster Platform](https://github.com/Hr-D-LuffY/Disaster-Platform) | Relief coordination platform that bridges disaster-affected victims with aid organizations and volunteers in real time | MERN |
 | [Auction Alley](https://github.com/Hr-D-LuffY/Auction-Alley) | Full-stack online auction platform with real-time bidding and payment gateway | Django, HTML |
 | [Cineplex Project](https://github.com/Hr-D-LuffY/Cineplex-Project) | Cinema booking website with full database backend | Flask, MySQL |
@@ -73,6 +84,4 @@
 | [Wreck Race](https://github.com/Hr-D-LuffY/Wreck-Race) | Computer graphics project | Python |
 
 ---
-
-
 
